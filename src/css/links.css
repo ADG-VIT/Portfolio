@@ -1,0 +1,12 @@
+#fb {
+    width: 5%;
+}
+
+#link {
+    display: inline-block;
+}
+
+#container {
+    text-align: center;
+    margin: 5vh auto 10px auto;
+}
